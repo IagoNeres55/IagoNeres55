@@ -1,5 +1,5 @@
 <br><br><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OL%C3%81,+MEU+NOME+%C3%89+Iago+:D;Tenho+23+anos;Sou+de+Guarulhos,+SP;Cursando+an%C3%A1lise+e+desenvolvimento+de+sistemas+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Prazer!,+Me+chamo+Iago+:D;Visite+meu+Linkedin!!;Sou+de+Guarulhos,+SP;Cursando+an%C3%A1lise+e+desenvolvimento+de+sistemas+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoNeres55&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Iago Neres github stats" /> 
@@ -31,8 +31,8 @@
 
 ### Studying in this moment:
 ![Cursando Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=laptop-code&logoColor=white&labelColor=0D1117)&nbsp;
-
-
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IagoNeres55}/count.svg" /></p> 
