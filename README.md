@@ -9,9 +9,7 @@
 <div align="center">  
 <a href="https://www.linkedin.com/in/iago-neres-81b368146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoNeres55&show_icons=true&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=f1f1f1)
 
  
 ### Main skills:
