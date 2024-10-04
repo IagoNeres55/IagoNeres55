@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Cursando Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=laptop-code&logoColor=white&labelColor=0D1117)&nbsp;
+![Formado Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=laptop-code&logoColor=white&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 <div align="center">
