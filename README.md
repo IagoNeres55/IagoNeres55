@@ -10,6 +10,8 @@
 </div>
 
 
+[![iago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoNeres55&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <div align="center">  
