@@ -10,8 +10,6 @@
 </div>
 
 
-[![Iago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoNeres55&bg_color=0d1117&color=c9d1d9&line=fcf2b1&point=00ddff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <div align="center">  
@@ -34,6 +32,8 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
+
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=0D1117)&nbsp;
@@ -42,6 +42,10 @@
 ![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
+
+
+[![Iago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoNeres55&bg_color=0d1117&color=c9d1d9&line=fcf2b1&point=00ddff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Studying in this moment:
 ![Formado Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=laptop-code&logoColor=white&labelColor=0D1117)&nbsp;
