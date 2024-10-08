@@ -44,15 +44,19 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
 
 
-[![Iago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoNeres55&bg_color=0d1117&color=c9d1d9&line=fcf2b1&point=00ddff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ### Studying in this moment:
 ![Formado Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=laptop-code&logoColor=white&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 <div align="center">
+
+
+[![Iago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IagoNeres55&bg_color=0d1117&color=c9d1d9&line=fcf2b1&point=00ddff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IagoNeres55}/count.svg" /></p> 
 <br></div>
+
 
