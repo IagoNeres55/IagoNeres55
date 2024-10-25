@@ -40,10 +40,6 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-
-
 
 
 
@@ -57,6 +53,7 @@
 ![Apple](https://img.shields.io/badge/-Apple-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
 
