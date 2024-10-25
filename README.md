@@ -33,6 +33,19 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 
+Aqui está o conjunto de badges com apenas as tecnologias que você mencionou:
+
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft-azure&labelColor=0D1117)&nbsp;
+![Backend](https://img.shields.io/badge/-Backend-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![AdonisJS](https://img.shields.io/badge/-AdonisJS-0D1117?style=for-the-badge&logo=adonisjs&labelColor=0D1117)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
+![Express](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+
+Esses badges são focados nas skills específicas que você mencionou.
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
