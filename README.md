@@ -59,8 +59,11 @@
 
 
 ### Studying in this moment:
-![Formado Análise e Desenvolvimento de Sistemas](https://img.shields.io/badge/-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=laptop-code&logoColor=white&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![WebSocket](https://img.shields.io/badge/-WebSocket-4CAF50?style=for-the-badge&logo=websocket&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 <div align="center">
 
