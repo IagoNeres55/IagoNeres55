@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-<a href="https://portifolio-onepage.vercel.app/" target="_blank"></a>
+<a href="https://portifolio-onepage.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn"></a>
 </div>
 
 
