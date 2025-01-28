@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-<a href="https://portifolio-onepage.vercel.app/" target="_blank"><h2>Portfólio</h2></a>
+<a href="https://portifolio-onepage.vercel.app/" target="_blank">Portfólio</a>
 </div>
 
 
